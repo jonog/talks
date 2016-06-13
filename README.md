@@ -6,7 +6,7 @@
 
 * gRPC and Microservices (Go Meetup, Melbourne)
 
-* ChatOps (company presentation, Tabcorp)
+* [ChatOps](https://github.com/jonog/talks/raw/b682a3bacef4872165a9c92763149d492f56ccc2/dist/chatops/chatops-2016-05-09.pdf) (company presentation, Tabcorp)
 
 
 #### 2015
