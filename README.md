@@ -4,9 +4,9 @@
 
 #### 2016
 
-* gRPC and Microservices (Go Meetup, Melbourne)
+* [gRPC and Microservices](https://github.com/jonog/talks/blob/0b63ee5d27aa82d862d28993f3990d32d6fcdc9a/dist/grpc/grpc-presentation-20160607.pdf) (Go Meetup, Melbourne)
 
-* [ChatOps](https://github.com/jonog/talks/raw/b682a3bacef4872165a9c92763149d492f56ccc2/dist/chatops/chatops-2016-05-09.pdf) (company presentation, Tabcorp)
+* [ChatOps](https://github.com/jonog/talks/blob/master/dist/chatops/chatops-2016-05-09.pdf) (company presentation, Tabcorp)
 
 
 #### 2015
