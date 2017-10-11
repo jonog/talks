@@ -2,6 +2,9 @@
 
 ### Talks
 
+#### 2017
+* [gRPC FlatBuffers Lightning Talk and Demo](https://github.com/jonog/talks/blob/master/dist/grpc-flatbuffers/grpc-presentation.pdf) (Go Meetup, Melbourne)
+
 #### 2016
 
 * [gRPC and Microservices](https://github.com/jonog/talks/blob/0b63ee5d27aa82d862d28993f3990d32d6fcdc9a/dist/grpc/grpc-presentation-20160607.pdf) (Go Meetup, Melbourne)
