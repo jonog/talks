@@ -2,7 +2,12 @@
 
 ### Talks
 
+#### 2019
+
+* [Cataloguing All The Things](https://github.com/jonog/talks/blob/master/dist/aws-service-catalog/cataloguing-all-the-things-final-tv.pdf) (AWS User Group Meetup, Melbourne)
+
 #### 2017
+
 * [gRPC FlatBuffers Lightning Talk and Demo](https://github.com/jonog/talks/blob/master/dist/grpc-flatbuffers/grpc-presentation.pdf) (Go Meetup, Melbourne)
 
 #### 2016
