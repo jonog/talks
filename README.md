@@ -4,6 +4,8 @@
 
 #### 2019
 
+* [Accelerating Cloud and SRE Capability - with Sumo Logic](https://github.com/jonog/talks/blob/master/dist/sumo/accelerating-cloud-sre-with-sumo-v1.pdf) (Sumo Logic Melbourne Meetup, Melbourne)
+
 * [Building Platforms and Product Ecosystems](https://github.com/jonog/talks/blob/master/dist/platforms/building-platforms-and-product-ecosystems-v1.pdf) (Infracoders Meetup, Melbourne)
 
 * [Cataloguing All The Things](https://github.com/jonog/talks/blob/master/dist/aws-service-catalog/cataloguing-all-the-things-final-tv.pdf) (AWS User Group Meetup, Melbourne)
